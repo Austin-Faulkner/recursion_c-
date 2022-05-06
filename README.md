@@ -1,3 +1,3 @@
 # recursion_c++
 
-Some basic recusion 
+Some basic recursion 
