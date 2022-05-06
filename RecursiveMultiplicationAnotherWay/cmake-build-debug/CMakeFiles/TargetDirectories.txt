@@ -1,0 +1,3 @@
+/Users/austinriemannfaulkner/CLionProjects/Recursice Multiplication Another Way/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/austinriemannfaulkner/CLionProjects/Recursice Multiplication Another Way/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/austinriemannfaulkner/CLionProjects/Recursice Multiplication Another Way/cmake-build-debug/CMakeFiles/Recursice_Multiplication_Another_Way.dir

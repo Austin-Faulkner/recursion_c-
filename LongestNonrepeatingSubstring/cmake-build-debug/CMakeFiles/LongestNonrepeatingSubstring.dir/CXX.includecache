@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/austinriemannfaulkner/CLionProjects/Recursion/LongestNonrepeatingSubstring/main.cpp
+iostream
+-
+string
+-
+math.h
+/Users/austinriemannfaulkner/CLionProjects/Recursion/LongestNonrepeatingSubstring/math.h
+cstdlib
+-
+

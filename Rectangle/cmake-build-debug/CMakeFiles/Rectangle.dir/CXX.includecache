@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/austinriemannfaulkner/CLionProjects/Rectangle/Rectangle.h
+
+/Users/austinriemannfaulkner/CLionProjects/Rectangle/cmake-build-debug/Rectangle.h
+
+/Users/austinriemannfaulkner/CLionProjects/Rectangle/cmake-build-debug/RectangleImplementation.cpp
+Rectangle.h
+/Users/austinriemannfaulkner/CLionProjects/Rectangle/cmake-build-debug/Rectangle.h
+iostream
+-
+cstdlib
+-
+
+/Users/austinriemannfaulkner/CLionProjects/Rectangle/main.cpp
+Rectangle.h
+/Users/austinriemannfaulkner/CLionProjects/Rectangle/Rectangle.h
+iostream
+-
+iomanip
+-
+cstdlib
+-
+
